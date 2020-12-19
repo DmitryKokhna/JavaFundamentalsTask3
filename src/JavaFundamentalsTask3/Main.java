@@ -22,7 +22,7 @@ public class Main {
                 int x=arrayOfDigits[j];
                 if(x % 2 == 0 || x==0){
                     System.out.println(arrayOfDigits[j]);}
-                else {System.out.print(arrayOfDigits[j] +" ");}
+                else {System.out.print(arrayOfDigits[j] +"  ");}
             }
             }
         }
