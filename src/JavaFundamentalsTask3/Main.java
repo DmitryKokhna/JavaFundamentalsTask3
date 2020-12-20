@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // сделаем с воодом через консоль
+        // сделаем с вводом через консоль
         // и сделаем с переменными с присвоением
         System.out.println("Введите 5-ть целых чисел");
         Scanner inputDigits=new Scanner(System.in);
